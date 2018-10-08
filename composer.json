@@ -1,0 +1,21 @@
+{
+    "name": "organit/google",
+    "description": "google Login - Mail - Drive and more... ",
+    "require-dev": {
+        "guzzlehttp/psr7": "^1.3.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Organit\\Google\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thibault Van Campenhoudt",
+            "email": "info@organitr.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
