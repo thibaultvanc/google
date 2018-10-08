@@ -16,6 +16,6 @@
             "email": "info@organitr.fr"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }

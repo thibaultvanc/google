@@ -75,7 +75,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 crrer version Tag
-git tag -a 1.0.0 -m "first version"
+git tag -a 0.0.1 -m "first version"
 git push --tags
 
 
